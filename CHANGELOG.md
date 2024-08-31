@@ -1,3 +1,3 @@
 8/31/2024 
 - CHANGELOG.md created
-- Homework1 uploaded 
+- Homework1.cs uploaded 
